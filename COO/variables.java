@@ -42,6 +42,8 @@ class Variables {
         // Casting works just like in C.
 
         // Operators are the same as in C.
+
+        // Java has a MATH library with methods that work just like in C.
     }
 
 }
