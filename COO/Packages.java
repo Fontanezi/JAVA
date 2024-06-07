@@ -7,6 +7,9 @@ public class Packages {
 
             String userName = myObj.nextLine();
             System.out.println("Username is: " + userName);
+
+            // javac PackageName.java
+            // javac -d . PackageName.java
         }
     }
 }
